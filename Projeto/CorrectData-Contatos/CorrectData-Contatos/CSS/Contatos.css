@@ -9,8 +9,12 @@ td {
     text-align: center;
 }
 
-.button{
-    position:absolute;
-    float:right;
-    margin:auto;
+.index{
+    width:100%;
+    margin:auto auto auto auto;
+    font-size:large;
+}
+
+.update{
+    text-align:center;
 }

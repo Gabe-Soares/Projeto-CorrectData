@@ -1,0 +1,26 @@
+﻿.text {
+    border: 1px solid #222;
+    background: #fff;
+    padding:0;
+}
+
+.form {
+    align-items:center;
+    position:absolute;
+    display:block;
+}
+
+.div {
+    margin:15px;
+}
+
+.label {
+    color:black;
+    padding:0;
+    margin-right:15px;
+}
+
+.list {
+    resize:none;
+    
+}
