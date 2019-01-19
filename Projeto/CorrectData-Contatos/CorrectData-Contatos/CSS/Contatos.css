@@ -1,0 +1,16 @@
+﻿table {
+    width: 100%;
+}
+
+th,
+td {
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.button{
+    position:absolute;
+    float:right;
+    margin:auto;
+}
